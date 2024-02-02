@@ -1,0 +1,14 @@
+C:\Users\SINOVA Covid\Desktop\Tareas 2024\programacion2\EjercicioAbstraccion\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SINOVA Covid\Desktop\Tareas 2024\programacion2\EjercicioAbstraccion\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.AssemblyInfoInputs.cache
+C:\Users\SINOVA Covid\Desktop\Tareas 2024\programacion2\EjercicioAbstraccion\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.AssemblyInfo.cs
+C:\Users\SINOVA Covid\Desktop\Tareas 2024\programacion2\EjercicioAbstraccion\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.csproj.CoreCompileInputs.cache
+C:\Users\SINOVA Covid\Desktop\Tareas 2024\programacion2\EjercicioAbstraccion\EjercicioAbstraccion\EjercicioAbstraccion\bin\Debug\net8.0\EjercicioAbstraccion.exe
+C:\Users\SINOVA Covid\Desktop\Tareas 2024\programacion2\EjercicioAbstraccion\EjercicioAbstraccion\EjercicioAbstraccion\bin\Debug\net8.0\EjercicioAbstraccion.deps.json
+C:\Users\SINOVA Covid\Desktop\Tareas 2024\programacion2\EjercicioAbstraccion\EjercicioAbstraccion\EjercicioAbstraccion\bin\Debug\net8.0\EjercicioAbstraccion.runtimeconfig.json
+C:\Users\SINOVA Covid\Desktop\Tareas 2024\programacion2\EjercicioAbstraccion\EjercicioAbstraccion\EjercicioAbstraccion\bin\Debug\net8.0\EjercicioAbstraccion.dll
+C:\Users\SINOVA Covid\Desktop\Tareas 2024\programacion2\EjercicioAbstraccion\EjercicioAbstraccion\EjercicioAbstraccion\bin\Debug\net8.0\EjercicioAbstraccion.pdb
+C:\Users\SINOVA Covid\Desktop\Tareas 2024\programacion2\EjercicioAbstraccion\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.dll
+C:\Users\SINOVA Covid\Desktop\Tareas 2024\programacion2\EjercicioAbstraccion\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\refint\EjercicioAbstraccion.dll
+C:\Users\SINOVA Covid\Desktop\Tareas 2024\programacion2\EjercicioAbstraccion\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.pdb
+C:\Users\SINOVA Covid\Desktop\Tareas 2024\programacion2\EjercicioAbstraccion\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\EjercicioAbstraccion.genruntimeconfig.cache
+C:\Users\SINOVA Covid\Desktop\Tareas 2024\programacion2\EjercicioAbstraccion\EjercicioAbstraccion\EjercicioAbstraccion\obj\Debug\net8.0\ref\EjercicioAbstraccion.dll
